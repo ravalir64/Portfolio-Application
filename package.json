@@ -1,0 +1,13 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "preinstall": "npm install -g http-server",
+    "start": "http-server"
+  },
+  "author": "vamsi",
+  "license": "ISC",
+  "dependencies": {}
+}
